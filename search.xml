@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>迁移日志</title>
+      <link href="/2024/08/30/%E8%BF%81%E7%A7%BB%E6%97%A5%E5%BF%97/"/>
+      <url>/2024/08/30/%E8%BF%81%E7%A7%BB%E6%97%A5%E5%BF%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="迁移日志"><a href="#迁移日志" class="headerlink" title="迁移日志"></a>迁移日志</h1><p>博客已完成由主题Butterfly至Anzhiyu的迁移。<br>但由于数据备份出现错误。丢失部分记录，无法找回。<br>本次完成度为100%，所有页面均已完成。<br>有什么想说的可以在留言板留言哦，有空一定回。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 更新日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/08/29/hello-world/"/>
       <url>/2024/08/29/hello-world/</url>
@@ -33,7 +58,7 @@
       
         <tags>
             
-            <tag> 更新日志 </tag>
+            <tag> Blog </tag>
             
         </tags>
       
@@ -58,7 +83,7 @@
       
         <tags>
             
-            <tag> 更新日志 </tag>
+            <tag> Blog </tag>
             
         </tags>
       
